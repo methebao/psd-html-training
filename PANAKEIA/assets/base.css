@@ -1,0 +1,67 @@
+header {
+  padding: 51px 250px;
+}
+
+.left-logo {
+  display: inline-block;
+}
+
+.right-menu {
+  display: inline-block;
+  float: right;
+  margin-top: 15px;
+}
+
+.panakeia {
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: #31353e;
+  margin-bottom: 0px;
+}
+
+.free-psd-template {
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: 0.96px;
+  text-align: center;
+  color: #dd4b2b;
+}
+
+.hover-nav {
+  text-decoration: none;
+  background: #ffffff;
+  padding: 8px 15px;
+  display: inline-block;
+  font-family: RobotoSlab;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #31353e;
+}
+
+.hover-nav:hover {
+  color: #edeff1 !important;
+  background: #dd4b2b;
+  border-radius: 24.5px;
+  border-color: #f6b93b !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+  padding: 8px 15px;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+}
